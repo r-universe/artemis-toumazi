@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "dfped",
+    "oncran": true
+  },
+  {
+    "package": "dfpk",
+    "oncran": true
+  }
+]
