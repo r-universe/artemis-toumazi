@@ -1,10 +1,10 @@
 [
   {
-    "package": "dfped",
+    "package": "dfpk",
     "oncran": true
   },
   {
-    "package": "dfpk",
+    "package": "dfped",
     "oncran": true
   }
 ]
