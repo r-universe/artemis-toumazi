@@ -8,6 +8,3 @@
 [submodule "dfped"]
 	path = dfped
 	url = https://github.com/artemis-toumazi/dfped
-[submodule "dfpk"]
-	path = dfpk
-	url = https://github.com/artemis-toumazi/dfpk
